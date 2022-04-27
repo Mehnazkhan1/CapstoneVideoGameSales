@@ -1,1 +1,8 @@
 # CapstoneVideoGameSales
+#### My dataset is about games sales and their rating from 1980 to 2020. It has global sales and individual sales of Japan, North America & Europe. It contains different columns including deveoper, publisher, name of games,Genre etc. I have use a sample of my data as it was a big data set and creating memory issues. For time constrain i did not use whole dataset.
+#### In that dataset  i tries to answer some of the questions.
+#### My analysis show that globally Wii gave the maximum sales of 82.5M sale in 2016 over the time and DS has 29.80M sales in 2012 overtime.
+#### I have three markets in my dataset also. According to these analysis that global sales was at the peak in 1985. And i for individual market Japan has generated maximum sales in 1989, Europe has generated maximum sales in 1989 and North America has generated maximum sales in 1985.
+#### PS2 was very popular in early time and after 2006 wii took over. Our sales droppped down after 1998 as many competitors came into the market.
+#### According to my analysis games are in the market for so long and by the time their demand are increasing. As time passes we have seen improvement in technology of games. Sales are also fluctuating as some year has less sales globally and individualyy as well. From PC games to video games. Individual markets impact the global sales.North America has a big market for games and its generating good sales as well. Different games were rulling in different regions. But PS2 and X360 were very popular between 1985 to 2020 and after 2006 Wii became very popular too. Electronic Arts is the most successfull publisher and most popular genre was 'Action'.
+#### I would like to do further analysis on this project afterwards.
